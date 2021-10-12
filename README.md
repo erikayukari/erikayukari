@@ -1,11 +1,18 @@
 ### Hi there 👋
+🔭 I’m currently working on content manangement and production on Tech and Business here in São Paulo. 
+
+✨ I’m also currently learning to code in python and analyze data in the Master of Data Journalism, Automation and Data Storytelling, which is a course offered by Insper. 
+
+📫 Here is how to reach me:
+
+erika.yfk@gmail.com
 
 <!--
 **erikayukari/erikayukari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

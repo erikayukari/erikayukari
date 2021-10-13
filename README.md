@@ -1,7 +1,7 @@
 ### Hi there 👋
-💬  I’m currently working on content management and production on Tech and Business here in São Paulo. 
+💬  I’m currently working on content management and production on Tech and Innovative Business here in São Paulo. 
 
-✨ I’m also currently learning to code in python and analyze data in the first graduate program offered by Insper called Master of Data Journalism, Automation and Data Storytelling. 
+✨ I’m also currently learning to code in python and analyze data in a graduate program offered by Insper called Master of Data Journalism, Automation and Data Storytelling. 
 
 📫 Here is how to reach me:
 
